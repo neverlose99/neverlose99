@@ -53,4 +53,5 @@ public class Fraction {
         int newDenominator = this.denominator * other.nummerator;
         return new Fraction(newNumerator, newDenominator);
     }
+    
 }

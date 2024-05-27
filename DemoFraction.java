@@ -29,5 +29,7 @@ public class DemoFraction {
         Fraction quotient = fraction1.divide(fraction2);
         quotient.simplify();
         System.out.println("Quotient: " + quotient.getNummerator() + "/" + quotient.getDenominator());
+
+        System.out.println("End program");
     }
 }
