@@ -31,6 +31,6 @@ public class DemoFraction {
         System.out.println("Quotient: " + quotient.getNummerator() + "/" + quotient.getDenominator());
 
         System.out.println("End program");
-        System.out.println("bye!!");
+        System.out.println("byeeeeeeeeeeeeeeeeeeeeeee!!");
     }
 }
